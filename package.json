@@ -28,6 +28,6 @@
     "babel-cli": "^6.6.5",
     "babel-loader": "^8.1.0",
     "body-parser": "^1.17.2",
-    "webpack-cli": "^3.3.11"
+    "webpack-cli": "^3.3.12"
   }
 }
